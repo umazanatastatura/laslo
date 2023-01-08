@@ -1,0 +1,28 @@
+Learned to create and change some things in Makefile...
+useful links:
+https://yuukidach.github.io/p/makefile-for-projects-with-subdirectories/
+
+Learned to ignore folders in gitignore, useful links:
+https://www.freecodecamp.org/news/gitignore-file-how-to-ignore-files-and-folders-in-git/
+
+Installed gh for pushing to github;
+You need it to connect securely to your github account and then you can (with git) push/pull without any problems (because simple push via https is obsolete now), useful links:
+https://github.com/cli/cli/blob/trunk/docs/install_linux.md
+https://github.com/cli/cli/discussions/3093
+
+
+Learned the hard way that Helix editor cannot paste from system clipboard into Helix because of something called "system clipboard provider".
+I used bash which had termcode clipboard provider. As soon as I changed shell (now using fish), the issue resolved itself.
+Wrote a ticket to helix-editor/helix, they need to know about the issue.
+Useful links... maybe about fish shell?
+https://fishshell.com/docs/current/tutorial.html
+
+Now I have Laslo repo on Github.. let's see how long will I keep up with my "resolution" and work through that book.
+
+A link to Helix mumbo jumbo:
+https://www.youtube.com/watch?v=i_qsYALaFVo
+
+
+And yes, I (re)learned thing or two about c++:
+for loop - thing or two about 3 part of it
+how to validate cin input (read about it - this is still in TODO )
